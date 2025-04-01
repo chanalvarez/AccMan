@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.py linguist-detectable=true
+*.pyc linguist-detectable=true
+*.html linguist-detectable=true
+*.sqlite3linguist-detectable=true
