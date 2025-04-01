@@ -1,4 +1,6 @@
 *.py linguist-detectable=true
 *.pyc linguist-detectable=true
 *.html linguist-detectable=true
-*.sqlite3linguist-detectable=true
+*.sqlite3 linguist-detectable=true
+*.html linguist-detectable=false
+
